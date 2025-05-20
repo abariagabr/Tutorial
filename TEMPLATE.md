@@ -1,9 +1,9 @@
 ---
 title: My Super Awesome Tutorial
-date: 1970-01-01
+date: 2025-19-05
 authors:
-  - name: John Doe
-  - name: Mary Jane
+  - name: Aron Bariagabr
+  - name: 
 ---
 
 ![relevant graphic or workshop logo](image/path)
